@@ -19,7 +19,7 @@ The server will need the following software and technical capabilities to allow 
 
 Unit tests can be completed via the Maven Build Tool using the SureFire Plugin. Executing the unit tests with maven is as simple as:
 ```
-C:\github\sql_export-to-csv>mvn test
+C:\github\sql_export_to_csv>mvn test
 ```
 
 Sample Output:
