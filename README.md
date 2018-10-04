@@ -102,7 +102,7 @@ mvn exec:java -Dexec.args="--InputFileLocation=\\<SERVERNAME>>\BusinessProtector
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+n/a
 
 ## Versioning
 
@@ -112,8 +112,3 @@ Version 0.5.0.0
 
 * **Rob Cruz** - *Initial work*
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
